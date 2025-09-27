@@ -1,0 +1,3 @@
+title: My Jekyll Site
+plugins:
+  - jekyll-redirect-from
